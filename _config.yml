@@ -24,3 +24,4 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 exclude : [ "appsettings.json", "project.lock.json", "Program.cs", "Controllers", "node_modules", "package.json", "Startup.cs", "web.config", "project.json", "gulpfile.js", "GEMFILE", "bower.json", ".gitignore", ".bowerrc", "Gemfile.lock" ]
+theme: jekyll-theme-slate
